@@ -1,11 +1,11 @@
 # books_app_googleapi
 
 Features :
-Common UI Screen (Home screen, Detail screen, bottom sheet for search)
-Loading Screen
-Media Query
-Http request
-Provider
+Common UI Screen (Home screen, Detail screen, bottom sheet for search),
+Loading Screen,
+Media Query,
+Http request,
+Provider,
 
 ## Getting Started
 
