@@ -1,6 +1,11 @@
-# test_demo
+# books_app_googleapi
 
-A new Flutter project.
+Features :
+Common UI Screen (Home screen, Detail screen, bottom sheet for search),
+Loading Screen,
+Media Query,
+Http request,
+Provider,
 
 ## Getting Started
 
