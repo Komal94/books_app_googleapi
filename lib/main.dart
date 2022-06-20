@@ -4,8 +4,6 @@ import 'package:provider/provider.dart';
 import 'package:test_demo/providers/home_provider.dart';
 
 void main() {
-  // setUrlWithoutHashTag();
-
   runApp(
     MultiProvider(
       providers: [
